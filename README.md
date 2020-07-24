@@ -1,2 +1,1 @@
-# resume
-Java Script Junior resume
+https://yulia-kotlyarova.github.io/resume/
